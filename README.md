@@ -6,6 +6,6 @@ I am from Warangal, a town in Telangana, southern state of India. After completi
 # Plans
 I am looking forward to working as a software engineer, especially as a Backend Engineer.
 # Links
-[Github] (https://github.com/Arnavakula7474)
+[Github] (https://github.com/Arnavakula7474) </br>
  
  <img src= "/images/unnamedd.jpg" width="380" height="480"> 
